@@ -1,0 +1,10 @@
+apiVersion: v1
+description: Cluster roles and binding for users
+engine: gotpl
+maintainers:
+  - name: Michael Merrill
+    email: jjpaacks@gmail.com
+name: rbac-local
+sources:
+  - https://github.com/mmerrill3/k8s-project
+version: 0.0.1

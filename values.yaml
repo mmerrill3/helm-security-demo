@@ -1,0 +1,18 @@
+projects:
+  core-services:
+    name: coreservices-tiller
+    tiller: coreservices-tiller
+    users: |+
+      - kind: User
+        name: jjpaacks@gmail.com
+  someone-else:
+    name: someone-else-tiller
+    tiller: someone-else-tiller
+    users: |+
+      - kind: User
+        name: someone@gmail.com
+  admins:
+    name: admins
+    users: |+
+      - kind: User
+        name: jjpaacks@gmail.com

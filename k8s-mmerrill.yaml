@@ -1,0 +1,9 @@
+projects:
+  core-services:
+    namespaces:
+      - dev-test
+      - coreservices-tiller
+  someone-else:
+    namespaces:
+      - someone-else-ns
+      - someone-else-tiller
