@@ -15,4 +15,4 @@ projects:
     name: admins
     users: |+
       - kind: User
-        name: jjpaacks@gmail.com
+        name: michael.merrill@vonage.com
